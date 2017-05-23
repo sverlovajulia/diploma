@@ -1,0 +1,21 @@
+C:\Users\semakd\Desktop\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\semakd\Desktop\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\semakd\Desktop\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\semakd\Desktop\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+C:\Users\semakd\Desktop\Diplom\Diplom\obj\Debug\Diplom.csproj.ResolveComReference.cache
+C:\Users\semakd\Desktop\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Users\semakd\Desktop\Diplom\Diplom\obj\Debug\Diplom.pdb
+C:\Users\semakd\Desktop\Прога для диплома Юли\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\semakd\Desktop\Прога для диплома Юли\Diplom\Diplom\obj\Debug\Diplom.csproj.ResolveComReference.cache
+C:\Users\semakd\Desktop\Прога для диплома Юли\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Users\semakd\Desktop\Прога для диплома Юли\Diplom\Diplom\obj\Debug\Diplom.pdb
+C:\Users\semakd\Desktop\Прога для диплома Юли\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\semakd\Desktop\Прога для диплома Юли\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\semakd\Desktop\Прога для диплома Юли\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\Desktop\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\Юлия\Desktop\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\Юлия\Desktop\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\Юлия\Desktop\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+C:\Users\Юлия\Desktop\Diplom\Diplom\obj\Debug\Diplom.csproj.ResolveComReference.cache
+C:\Users\Юлия\Desktop\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Users\Юлия\Desktop\Diplom\Diplom\obj\Debug\Diplom.pdb
